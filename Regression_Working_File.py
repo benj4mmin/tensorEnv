@@ -19,7 +19,7 @@ print(data.head())
 
 # linear = linear_model.LinearRegression()
 
-# limear.fit(x_train, y_train
+# linear.fit(x_train, y_train)
 
 # acc = linear.score(x_test, y_test) # accuracy
 
@@ -32,3 +32,5 @@ print(data.head())
 
 # for x in range(len(predictions));
 #   print(predictions[x], x_test[x], y_test[x])
+
+# linear.score(x_test, y_test)
